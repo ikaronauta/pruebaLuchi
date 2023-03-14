@@ -1,5 +1,11 @@
 # Materiales
 
+## Mapa del Sitio
+
+1. [Diagrama Flujo](#diagrama-flujo)
+2. [Prueba Solicitud](#prueba-solicitud)
+3. [Formulario Gestionar Código SAP][(##diagrama-flujo)]
+
 - ## ↗️ Diagramas
 
 ### Diagrama Flujo
